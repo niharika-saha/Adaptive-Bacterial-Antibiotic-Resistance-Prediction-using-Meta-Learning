@@ -8,5 +8,5 @@
 - A Prototypical Network with CNN and Transformer layers is trained using cosine similarity between query embeddings and class prototypes.  
 - Model performance is evaluated on validation and test tasks, and visualised through accuracy curves and t-SNE plots of learned embeddings.  
 
-![model results](image.png)
-![t-SNE projection](image-1.png)
+![model results](output-screenshots/image.png)
+![t-SNE projection](output-screenshots/image-1.png)
