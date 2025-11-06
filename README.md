@@ -1,6 +1,17 @@
 # Adaptive-Bacterial-Antibiotic-Resistance-Prediction-using-Meta-Learning
 
-MAML Implementation:
+## Reptile Implementation:
+
+FINAL TEST RESULTS:
+- Accuracy: 0.541 ± 0.137
+- Loss: 2.907
+- Episodes: 400
+
+test vs validation accuracies:
+<img width="1122" height="393" alt="image" src="https://github.com/user-attachments/assets/20452613-50e9-41d9-84dd-3624f9ddf510" />
+
+
+## MAML Implementation:
 
 Test Results:
 - Accuracy: 0.594 ± 0.146
