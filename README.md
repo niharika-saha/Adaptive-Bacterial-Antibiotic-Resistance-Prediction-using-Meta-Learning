@@ -56,7 +56,7 @@ Jupyter notebooks implementing various architectures and meta-learning methods t
 - **Meta-learning methods**: MetaOptNet, ProtoNet, Bayesian variants, and more
 
 #### `meta-learning-models/final/`
-Jupyter notebooks implementing MetaOptNet and Bayesian MetaOptNet algorithms
+Jupyter notebooks implementing MetaOptNet and Bayesian MetaOptNet algorithms(trained and tested on MegaRes dataset)
 
 #### `experiments/`
 Jupyter notebooks containing:
