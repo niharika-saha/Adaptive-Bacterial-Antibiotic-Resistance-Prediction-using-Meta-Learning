@@ -73,8 +73,8 @@ Pretrained model checkpoints saved during experiments for reproducibility and tr
 
 | Experiment | Accuracy | Setup |
 |------------|----------|-------|
-| **MetaOptNet-Ridge** | ~91% | 3-way 3-shot tasks |
-| **Cross-database transfer** | 95–96% | 5-shot (MEGARes → CARD/NDARO) |
+| **MetaOptNet-Ridge on training dataset** | ~91% | 3-way 3-shot tasks |
+| **Cross-dataset transfer (testing on unseen datasets)** | 95–96% | 5-shot (MEGARes → CARD/NDARO) |
 | **Bayesian variant** | High confidence with zero high-confidence errors | Uncertainty-aware predictions |
 
 ### Additional Findings
