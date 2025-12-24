@@ -87,7 +87,7 @@ Pretrained model checkpoints were saved during experiments for reproducibility a
 ## Contributors
 
 - **Neha Nair** - [@nehanpnair](https://github.com/nehanpnair)
-- **Niharika Saha** - [@Niharika-Saha](https://github.com/Niharika-Saha)
+- **Niharika Saha** - [@niharika-saha](https://github.com/niharika-saha)
 - **Padarthi Neha Sai** - [@pnehasai](https://github.com/pnehasai)
 - **Priyanka S** - [@pris25123](https://github.com/pris25123)
 
